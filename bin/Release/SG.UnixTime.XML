@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SG.UnixTime</name>
+    </assembly>
+    <members>
+        <member name="T:SG.UnixTime.Format">
+            <summary>
+            Time Format : UTC and Local 
+            </summary>
+        </member>
+        <member name="T:SG.UnixTime.UnixTime">
+            <summary>
+            C# Unix Time Converter
+            </summary>
+        </member>
+        <member name="M:SG.UnixTime.UnixTime.ToEpoch(System.DateTime)">
+            <summary>
+            Convert Date Time to Unix Time Stamp
+            </summary>
+            <param name="_dateTime">Date Time</param>
+            <returns></returns>
+        </member>
+        <member name="M:SG.UnixTime.UnixTime.ToDateTime(System.Int32,SG.UnixTime.Format)">
+            <summary>
+            Convert Unix Time Stamp to Date Time
+            </summary>
+            <param name="epoch">Unix Time Stamp</param>
+            <param name="TimeFormat">Time Format</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

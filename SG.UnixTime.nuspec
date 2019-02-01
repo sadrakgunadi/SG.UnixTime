@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SG.UnixTime</id>
+    <version>1.0</version>
+    <title>Unix Time Converter</title>
+    <authors>Sadrak Gunadi</authors>
+    <owners>Sadrak Gunadi</owners>
+    <!-- <licenseUrl></licenseUrl> -->
+    <!-- <projectUrl></projectUrl> -->
+    <!-- <iconUrl></iconUrl> -->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Convert Date Time to Unix Time Stamp and Vice Versa</description>
+    <releaseNotes>This is first release for Unix Time Converter. This package will convert Date Time to Unix Time Stamp and Vice Versa</releaseNotes>
+    <copyright>Copyright 2019. Sadrak Gunadi</copyright>
+    <tags>Unix TimeStamp</tags>
+  </metadata>
+  <files>
+	<file src="bin\Release\SG.UnixTime.dll" target="lib\net40\SG.UnixTime.dll" />
+    <file src="bin\Release\SG.UnixTime.xml" target="lib\net40\SG.UnixTime.xml" />
+  </files>
+</package>
