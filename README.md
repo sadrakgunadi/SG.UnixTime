@@ -3,6 +3,11 @@
 
 > Convert Date Time to Unix Time Stamp and Vice Versa
 
+![](https://img.shields.io/github/repo-size/sadrakgunadi/SG.UnixTime.svg?style=flat)
+![](https://img.shields.io/github/languages/code-size/sadrakgunadi/SG.UnixTime.svg?style=flat)
+![](https://img.shields.io/github/languages/count/sadrakgunadi/SG.UnixTime.svg?style=flat)
+![](https://img.shields.io/github/downloads/sadrakgunadi/SG.UnixTime/total.svg?style=flat)
+
 This is first release for Unix Time Converter. This package will convert Date Time to Unix Time Stamp and Vice Versa.
 
 ###### Import Reference
